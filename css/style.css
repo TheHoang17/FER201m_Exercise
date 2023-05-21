@@ -31,8 +31,5 @@ body{
     z-index:0;
 }
 .navbar-dark {
-    background-color: #512DA8;
-}
-.navbar {
-    background-color: black !important;
+    background-color: #007BFF;
 }
