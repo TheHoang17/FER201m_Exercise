@@ -31,5 +31,17 @@ body{
     z-index:0;
 }
 .navbar-dark {
-    background-color: #007BFF;
+    background-color: #5133A5 ;
+}
+.card-header{
+    background-color: #FDC02F !important;
+    color: white;
+}
+
+.btn-primary{
+    width: 150px !important;  
+}
+.btn {
+    font-size: 1.5rem !important;
+    width: 80%;
 }
