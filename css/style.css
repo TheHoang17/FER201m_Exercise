@@ -38,9 +38,7 @@ body{
     color: white;
 }
 
-.btn-primary{
-    width: 150px !important;  
-}
+
 .btn {
     font-size: 1.5rem !important;
     width: 80%;
@@ -63,3 +61,10 @@ body{
     text-align: left;
   }
 
+  .btn-secondary {
+    width: 20%;
+  }
+ 
+  .btn-primary{
+    width: 30% !important;  
+}
